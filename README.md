@@ -1,1 +1,1 @@
-# algebralineal
+# Álgebra Lineal con Python
